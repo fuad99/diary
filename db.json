@@ -1,7 +1,7 @@
 {
   "diary": [
-    { "judul": "Catatan 1", "isi": "aku aku", "date": "18-Juni-2019" },
-    { "judul": "Catatan 2", "isi": "dia dia", "date": "19-Juni-2019" },
-    { "judul": "Catatan 3", "isi": "kau kau", "date": "20-Juni-2019" }
+    { "judul": "Catatan 1", "isi": "aku aku", "date": "18-Juni-2019","id" = 1},
+    { "judul": "Catatan 2", "isi": "dia dia", "date": "19-Juni-2019","id" = 2},
+    { "judul": "Catatan 3", "isi": "kau kau", "date": "20-Juni-2019","id" = 3}
   ]
 }
